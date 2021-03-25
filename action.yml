@@ -1,4 +1,4 @@
-name: 'Setup CD tools'
+name: 'Setup CI/CD tools'
 description: 'Set up a variety of tools for Continuous Delivery.'
 author: 'Daichi Sakai'
 inputs:
