@@ -1,5 +1,6 @@
 name: 'Setup CI/CD tools'
 description: 'Set up a variety of tools for Continuous Delivery.'
+play
 author: 'Daichi Sakai'
 inputs:
   jq:
@@ -23,6 +24,9 @@ inputs:
   hub:
     descriptions: 'The version of hub'
     required: false
+branding:
+  icon: 'play'
+  color: 'dark'
 runs:
   using: 'node12'
   main: 'dist/index.js'
