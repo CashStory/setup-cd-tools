@@ -1,7 +1,6 @@
 name: 'Setup CI/CD tools'
 description: 'Set up a variety of tools for Continuous Delivery.'
-play
-author: 'Daichi Sakai'
+author: 'Cashstory'
 inputs:
   jq:
     descriptions: 'The version of jq'
