@@ -25,7 +25,7 @@ inputs:
     required: false
 branding:
   icon: 'play'
-  color: 'dark'
+  color: 'black'
 runs:
   using: 'node12'
   main: 'dist/index.js'
